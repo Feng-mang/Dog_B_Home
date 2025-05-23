@@ -48,7 +48,7 @@ npm install
 1. 本地开发环境部署：
 ```bash
 # 启动服务器
-node simple-server.js
+node simple-server-debug.js
 ```
 服务器将在 http://localhost:3000 启动
 
